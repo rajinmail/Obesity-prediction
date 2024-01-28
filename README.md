@@ -1,5 +1,5 @@
 # Obesity-prediction
-Sure, here's a template for a README file on GitHub related to an obesity prediction project:
+obesity prediction project:
 
 ---
 
